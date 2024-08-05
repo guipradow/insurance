@@ -1,1 +1,3 @@
 .venv
+data/processed/insurance_dataset.csv
+data/raw/insurance_dataset.csv
